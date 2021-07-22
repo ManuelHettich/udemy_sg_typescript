@@ -1,0 +1,23 @@
+{
+  "name": "udemy_sg_typescript",
+  "version": "1.0.0",
+  "description": "https://www.udemy.com/course/typescript-the-complete-developers-guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelHettich/udemy_sg_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelHettich/udemy_sg_typescript/issues"
+  },
+  "homepage": "https://github.com/ManuelHettich/udemy_sg_typescript#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
