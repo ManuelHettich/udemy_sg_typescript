@@ -19,9 +19,11 @@
   "homepage": "https://github.com/ManuelHettich/udemy_sg_typescript#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
-    "prettier": "2.3.2"
+    "prettier": "2.3.2",
+    "typescript": "^4.3.5"
   },
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "faker": "^5.5.3"
   }
 }
